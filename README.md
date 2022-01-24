@@ -1,5 +1,6 @@
 Hi! I'm Kevin
 
-I'm currently working on learning the basics of html, css, javascript and more.
+I'm an aspiring Software Engineer currently focusing on web development.
 
-I will be uploading a variety of projects here.
+
+
