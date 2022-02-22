@@ -1,6 +1,6 @@
 Hi! I'm Kevin
 
-I'm an aspiring Software Engineer currently focusing on web development.
+I'm a Software Developer currently focusing on web development.
 
 
 
