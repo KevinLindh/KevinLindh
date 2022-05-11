@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Kevin%20Lindholm%20💻&width=100%&height=300)
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Kevin%20Lindholm%20💻&width=900&height=300)
 <h3 align="center">A passionate Software Developer currently learning the ins and outs of Web Development</h3>
 
 - 👨‍💻 All of my projects are available at [https://kevinlindholm.netlify.app/](https://kevinlindholm.netlify.app/)
@@ -16,5 +16,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlindh&show_icons=true&locale=en" alt="kevinlindh" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlindh&" alt="kevinlindh" width="100%"/></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlindh&" alt="kevinlindh" width="900"/></p>
 
