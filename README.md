@@ -47,7 +47,7 @@
       <h3 align="center">TicTacToe</h3>
         <br />
       <a target="_blank" href="https://tictactoekevin.netlify.app">
-            ![tictactoe](https://user-images.githubusercontent.com/94518833/167916066-31ed6df8-b50d-47f2-8a10-118daa540507.gif)
+            <img src="https://user-images.githubusercontent.com/94518833/167916066-31ed6df8-b50d-47f2-8a10-118daa540507.gif" width="100%" alt="TicTacToe"/>
         </a>
         <br />
         <p align="center">
