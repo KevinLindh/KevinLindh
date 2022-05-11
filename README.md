@@ -1,6 +1,6 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Kevin%20Lindholm%20💻&width=900&height=300)
 
-<h2 align="center">Connect with me:</h2>
+<h1 align="center">Connect with me</h1>
 <p align="center">
   <a href="https://kevinlindholm.netlify.app/" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=23555f&style=plastic&logo=react&logo-color=white"/>
