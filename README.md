@@ -38,11 +38,12 @@
     <img src="https://img.shields.io/static/v1?label=|&message=REACT.JS&color=4a935c&style=plastic&logo=react"/>
     <img src="https://img.shields.io/static/v1?label=|&message=TYPESCRIPT&color=4a935c&style=plastic&logo=typescript"/>
     <img src="https://img.shields.io/static/v1?label=|&message=WORDPRESS&color=cdd148&style=plastic&logo=wordpress"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=98bf53&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=MONGO-DB&color=cdd148&style=plastic&logo=mongodb"/>
     <img src="https://img.shields.io/static/v1?label=|&message=EXPRESS&color=bbb111&style=plastic&logo=express"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=cbb148&style=plastic&logo=git"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=blue&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=blue&style=plastic&logo=figma"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=blue&style=plastic&logo=adobe"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=blue&style=plastic&logo=adobephotoshop"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinlindh&show_icons=true&locale=en&layout=compact" alt="kevinlindh" /></p>
