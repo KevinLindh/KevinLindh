@@ -43,5 +43,5 @@
     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=blue&style=plastic&logo=amazon"/>
 </p>
 
-<p float="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlindh&show_icons=true&locale=en" alt="kevinlindh" width="440"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlindh&" alt="kevinlindh" width="440"/></p>
+<p float="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlindh&show_icons=true&locale=en" alt="kevinlindh" width="50%"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlindh&" alt="kevinlindh" width="50%"/></p>
 
