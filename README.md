@@ -1,5 +1,5 @@
 ![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Kevin%20Lindholm%20💻&width=900&height=300)
-<h3 align="center">In recent projects, I have focused on foreign languages, with memorization and learning words being core features. Previously I worked in Human Resources specializing in organizational management, helping others adapt and overcome seemingly insurmountable challenges, which was both challenging and rewarding. I aim to accomplish the same thing with my work in software development.<br>I live my life following my passions, whether that requires me to move to a foreign country halfway across the globe or pushes me to meet individuals with different backgrounds. I believe in taking decisive steps to find fulfillment and enjoyment in one's life.</h3>
+<h3 align="center">I live my life following my passions, whether that requires me to move to a foreign country halfway across the globe or pushes me to meet individuals with different backgrounds. I believe in taking decisive steps to find fulfillment and enjoyment in one's life.</h3>
 
 - 👨‍💻 All of my projects are available at [https://kevinlindholm.netlify.app/](https://kevinlindholm.netlify.app/)
 
