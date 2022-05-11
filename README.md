@@ -85,7 +85,7 @@
       <h3 align="center">Portfolio Website</h3>
         <br />
         <a target="_blank" href="https://kevinlindholm.netlify.app/">
-          <img src="https://user-images.githubusercontent.com/94518833/167918761-7758389a-4bfc-4f6c-9247-98b73937bc72.JPG" width="100%" alt="Portfolio"/>
+          <img src="https://user-images.githubusercontent.com/94518833/167924841-307fb029-098f-4fa5-94e0-2284aab13749.gif" width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
