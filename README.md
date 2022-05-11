@@ -43,7 +43,8 @@
     <img src="https://img.shields.io/static/v1?label=|&message=GIT&color=blue&style=plastic&logo=git"/>
     <img src="https://img.shields.io/static/v1?label=|&message=FIGMA&color=blue&style=plastic&logo=figma"/>
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=blue&style=plastic&logo=adobe"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=blue&style=plastic&logo=adobephotoshop"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=PHOTOSHOP&color=blue&style=plastic&logo=adobephotoshop"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=blue&style=plastic&logo=amazon"/>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=kevinlindh&show_icons=true&locale=en&layout=compact" alt="kevinlindh" /></p>
