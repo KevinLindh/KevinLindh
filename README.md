@@ -6,7 +6,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=wordpress&logo-color=white"/>
   </a>
   <a href="https://www.linkedin.com/in/kevin-lindholm/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=cdf998&style=plastic&logo=linkedin&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=LINKED-IN&color=23555f&style=plastic&logo=linkedin&logo-color=white"/>
   </a>
   <a href="https://twitter.com/KevinLindh_" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=TWITTER&color=23555f&style=plastic&logo=twitter&logo-color=white"/>
