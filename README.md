@@ -29,7 +29,7 @@
       <h3 align="center">Minesweeper</h3>
         <br />
         <a target="_blank" href="https://minesweeperadaptable.netlify.app/">
-            ![minesweeper](https://user-images.githubusercontent.com/94518833/167914707-4d68f13e-938e-42fc-84f4-97e0f954fa3e.gif)
+             <img src="https://user-images.githubusercontent.com/94518833/167914707-4d68f13e-938e-42fc-84f4-97e0f954fa3e.gif" width="100%" alt="Minesweeper"/>
         </a>
         <br />
         <p align="center">
@@ -68,7 +68,7 @@
       <h3 align="center">BanTanNow</h3>
       <br />
         <a target="_blank" href="https://bantannow.netlify.app">
-          ![BanTanNow](https://user-images.githubusercontent.com/94518833/167923032-64e8bca8-bb0d-46b7-a414-dd467b4aa41d.gif)
+          <img src="https://user-images.githubusercontent.com/94518833/167923032-64e8bca8-bb0d-46b7-a414-dd467b4aa41d.gif" width="100%" alt="BanTanNow"/>
         </a>
       <br />
         <p align="center">
@@ -85,7 +85,7 @@
       <h3 align="center">Portfolio Website</h3>
         <br />
         <a target="_blank" href="https://kevinlindholm.netlify.app/">
-          ![portfolio](https://user-images.githubusercontent.com/94518833/167918761-7758389a-4bfc-4f6c-9247-98b73937bc72.JPG)
+          <img src="https://user-images.githubusercontent.com/94518833/167918761-7758389a-4bfc-4f6c-9247-98b73937bc72.JPG width="100%" alt="Portfolio"/>
         </a>
         <br />
         <p align="center">
