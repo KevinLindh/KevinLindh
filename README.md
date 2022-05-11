@@ -1,4 +1,4 @@
-![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Kevin%20Lindholm%20💻&width=900&height=300)
+![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Kevin%20Lindholm%20💻&width=100%&height=300)
 <h3 align="center">A passionate Software Developer currently learning the ins and outs of Web Development</h3>
 
 - 👨‍💻 All of my projects are available at [https://kevinlindholm.netlify.app/](https://kevinlindholm.netlify.app/)
