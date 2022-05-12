@@ -124,6 +124,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=Netlify&color=blue&style=plastic&logo=netlify"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HOTJAR&color=blue&style=plastic&logo=hotjar"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GOOGLE&color=blue&style=plastic&logo=google"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=WINDOWS&color=blue&style=plastic&logo=windows"/>
 </p>
 
 <p float="left"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kevinlindh&show_icons=true&locale=en&theme=radical" alt="kevinlindh" width="50%"/><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kevinlindh&theme=radical" alt="kevinlindh" width="50%"/></p>
