@@ -44,10 +44,10 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Size adaptable minesweeper with selectable difficulty settings</p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">TicTacToe</h3>
+      <h3 align="center">BlackJack</h3>
         <br />
-      <a target="_blank" href="https://tictactoekevin.netlify.app">
-            <img src="https://user-images.githubusercontent.com/94518833/167916066-31ed6df8-b50d-47f2-8a10-118daa540507.gif" width="100%" alt="TicTacToe"/>
+      <a target="_blank" href="https://blackjack-kevin.netlify.app/">
+            <img src="https://user-images.githubusercontent.com/94518833/169656846-f57a52e7-8325-4746-be9b-6bad1cd50f63.gif" width="100%" alt="BlackJack"/>
         </a>
         <br />
         <p align="center">
