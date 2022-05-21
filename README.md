@@ -52,7 +52,7 @@
         <br />
         <p align="center">
           
-  <a href="https://blackjack-kevin.netlify.app/" target="_blank">
+  <a href="https://github.com/KevinLindh/Blackjack" target="_blank">
     <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
   </a>
   <a href="https://blackjack-kevin.netlify.app/" target="_blank">
