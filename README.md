@@ -121,7 +121,9 @@
     <img src="https://img.shields.io/static/v1?label=|&message=ADOBE&color=blue&style=plastic&logo=adobe"/>
     <img src="https://img.shields.io/static/v1?label=|&message=PHOTOSHOP&color=blue&style=plastic&logo=adobephotoshop"/>
     <img src="https://img.shields.io/static/v1?label=|&message=AWS&color=blue&style=plastic&logo=amazon"/>
-    <img src="https://img.shields.io/static/v1?label=|&message=Netlify&color=blue&style=plastic&logo=netlify"/>
+    <img src="https://img.shields.io/static/v1?label=|&message=NETLIFY&color=blue&style=plastic&logo=netlify"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=RAILWAY&color=blue&style=plastic&logo=railway"/>
+  <img src="https://img.shields.io/static/v1?label=|&message=HEROKU&color=blue&style=plastic&logo=heroku"/>
     <img src="https://img.shields.io/static/v1?label=|&message=HOTJAR&color=blue&style=plastic&logo=hotjar"/>
     <img src="https://img.shields.io/static/v1?label=|&message=GOOGLE&color=blue&style=plastic&logo=google"/>
   <img src="https://img.shields.io/static/v1?label=|&message=WINDOWS&color=blue&style=plastic&logo=windows"/>
