@@ -99,6 +99,25 @@
         <p><strong>HTML5, CSS3, & Javascript</strong> - Portofolio Website to showcase some of my projects and a way for to get in touch with me for freelancing work.</p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3 align="center">BanTanNow</h3>
+      <br />
+        <a target="_blank" href="https://bantannow.netlify.app">
+          <img src="https://user-images.githubusercontent.com/94518833/167923032-64e8bca8-bb0d-46b7-a414-dd467b4aa41d.gif" width="100%" alt="BanTanNow"/>
+        </a>
+      <br />
+        <p align="center">
+  <a href="https://github.com/KevinLindh/Bantanrestaurant" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>
+  <a href="https://bantannow.netlify.app" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - BanTanNow is Korean Restaurant website with some added functionality for selecting menu & pricing</p>
+      </tr>
+    </td>
 </table>
 
 <h1 align="center">Languages & Tools</h1>
