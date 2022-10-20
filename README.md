@@ -26,6 +26,24 @@
   
   <tr>
     <td width="50%" valign="top">
+      <h3 align="center">Let's do Korean</h3>
+        <br />
+        <a target="_blank" href="https://let-s-do-korean-production.up.railway.app/">
+             <img src="https://user-images.githubusercontent.com/94518833/197002200-e0e1ef01-76e2-490a-a236-a3f7579b8b79.gif" width="100%" alt="Lets do Korean"/>
+        </a>
+        <br />
+        <p align="center">
+          
+  <a href="https://github.com/KevinLindh/Let-s-do-Korean" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=REPO&color=23555f&style=plastic&logo=github&logo-color=white"/>
+  </a>  
+  <a href="https://let-s-do-korean-production.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
+  </a>
+      </p>
+        <p><strong>HTML5, CSS3, & Javascript</strong> - Size adaptable minesweeper with selectable difficulty settings</p>
+    </td>
+    <td width="50%" valign="top">
       <h3 align="center">Minesweeper</h3>
         <br />
         <a target="_blank" href="https://minesweeperadaptable.netlify.app/">
