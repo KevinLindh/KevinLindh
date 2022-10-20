@@ -41,7 +41,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Size adaptable minesweeper with selectable difficulty settings</p>
+      <p><strong>Javascript, EJS, MongoDB, Express, Bootstrap CSS3 & Node.js </strong> - Korean language learning website</p>   
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Minesweeper</h3>
@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
-        <p><strong>Javascript, EJS, MongoDB, Express, Bootstrap CSS3 & Node.js </strong> - Korean language learning website</p>
+      <p><strong>HTML5, CSS3, & Javascript</strong> - Size adaptable minesweeper with selectable difficulty settings</p>
     </td>
   </tr>
   
