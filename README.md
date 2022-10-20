@@ -59,7 +59,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Size adaptable minesweeper with selectable difficulty settings</p>
+        <p><strong>Javascript, EJS, MongoDB, Express, Bootstrap CSS3 & Node.js </strong> - Korean language learning website</p>
     </td>
   </tr>
   
@@ -80,7 +80,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - The classic game of BlackJack is back! Using APIs and cross browser session credit storage.</p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - The classic game of BlackJack is back! Using APIs and cross browser session credit storage.</p>
     </td>
     <td width="50%" valign="top">
       <h3 align="center">Portfolio Website</h3>
@@ -97,7 +97,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - Portofolio Website to showcase some of my projects and a way for to get in touch with me for freelancing work.</p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - Portofolio Website to showcase some of my projects and a way for to get in touch with me for freelancing work.</p>
     </td>
   </tr>
   <tr>
@@ -116,7 +116,7 @@
     <img src="https://img.shields.io/static/v1?label=|&message=WEBSITE&color=cdf998&style=plastic&logo=googlechrome&logo-color=white"/>
   </a>
       </p>
-        <p><strong>HTML5, CSS3, & Javascript</strong> - BanTanNow is Korean Restaurant website with some added functionality for selecting menu & pricing</p>
+        <p><strong>HTML5, CSS3 & Javascript</strong> - BanTanNow is Korean Restaurant website with some added functionality for selecting menu & pricing</p>
       </tr>
     </td>
 </table>
